@@ -1,4 +1,4 @@
-%%% File    : ahocorasick.erl
+%%% File    : aho_corasick.erl
 %%% Author  : Fyodor Ustinov <ufm@ufm.su>
 %%% Descrip.: Multiple search based on Aho-Corasick string matching algorithm
 %%%
