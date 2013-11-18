@@ -15,7 +15,7 @@
 %%%	    [{"pat1",[1,11]},{"pat2",[6]}]
 %%%
 
--module(ahocorasik).
+-module(aho_corasick).
 -define(TEST,true).
 -ifdef(TEST).
 -include_lib("eunit/include/eunit.hrl").
