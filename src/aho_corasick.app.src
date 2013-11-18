@@ -1,4 +1,4 @@
-{application, aho_corasik, [
+{application, aho_corasick, [
     {description, "aho corasick search algorithm based on https://gist.github.com/ufm/557884"},
     {vsn, "0.0.1"}
 ]}.
