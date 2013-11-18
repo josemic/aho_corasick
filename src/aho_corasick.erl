@@ -16,7 +16,7 @@
 %%%
 
 -module(ahocorasik).
-%%-define(TEST,true).
+-define(TEST,true).
 -ifdef(TEST).
 -include_lib("eunit/include/eunit.hrl").
 -endif.
